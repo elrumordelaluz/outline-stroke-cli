@@ -1,0 +1,21 @@
+{
+  "name": "outline-stroke-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/elrumordelaluz/outline-stroke-cli.git",
+  "author": "Lionel T <elrumordelaluz@hotmail.com> (https://elrumordelaluz.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "4.0.0",
+    "svg-outline-stroke": "1.2.1"
+  },
+  "bin": {
+    "outline-stroke": "cli.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "cli.js"
+  ]
+}
