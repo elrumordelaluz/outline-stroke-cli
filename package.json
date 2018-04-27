@@ -6,7 +6,7 @@
   "author": "Lionel T <elrumordelaluz@hotmail.com> (https://elrumordelaluz.com/)",
   "license": "MIT",
   "dependencies": {
-    "meow": "4.0.0",
+    "meow": "5.0.0",
     "svg-outline-stroke": "1.2.1"
   },
   "bin": {
