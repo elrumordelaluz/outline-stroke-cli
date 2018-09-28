@@ -43,7 +43,7 @@ If no specified, the output will be logged into `console`.
 ## Demo
 
 <p align="center">
-  <img alt="Outline Stroke Demo" title="Outline Stroke Demo" src="https://cdn.rawgit.com/elrumordelaluz/outline-stroke-cli/26f4c6c5/demo.gif" width="450">
+  <img alt="Outline Stroke Demo" title="Outline Stroke Demo" src="https://cdn.rawgit.com/elrumordelaluz/outline-stroke-cli/773ead51/demo.gif" width="450">
 </p>
 
 ## Related
