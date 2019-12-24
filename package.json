@@ -8,7 +8,7 @@
   "dependencies": {
     "meow": "5.0.0",
     "mkdirp": "0.5.1",
-    "svg-outline-stroke": "1.2.3"
+    "svg-outline-stroke": "1.2.4"
   },
   "bin": {
     "outline-stroke": "cli.js"
