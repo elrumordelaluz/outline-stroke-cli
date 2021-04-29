@@ -51,4 +51,4 @@ If no specified, the output will be logged into `console`.
 [svg-outline-stroke](https://github.com/elrumordelaluz/outline-stroke) Main Package
 
 [micro-outline-stroke](https://github.com/elrumordelaluz/micro-outline-stroke)
-Microservice with a public [endpoint](https://micro-outline-stroke.now.sh/)
+Microservice with a public [endpoint](https://outline-stroke.vercel.app/)
