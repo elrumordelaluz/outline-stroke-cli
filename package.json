@@ -8,6 +8,7 @@
   "dependencies": {
     "meow": "5.0.0",
     "mkdirp": "0.5.1",
+    "sharp": "^0.31.1",
     "svg-outline-stroke": "1.2.4"
   },
   "bin": {
@@ -18,5 +19,8 @@
   },
   "files": [
     "cli.js"
-  ]
+  ],
+  "resolutions": {
+    "sharp": "^0.29.0"
+  }
 }
